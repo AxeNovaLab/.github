@@ -16,7 +16,6 @@ Notre expertise technique s'appuie sur une stack moderne incluant **React**, **F
 ---
 
 ### 🌟 Projets Phares
-* **[EchoSign](https://github.com/votre-lien)** : Traduction du langage des signes via Computer Vision.
 * **[Pierre-Cedric](https://github.com/votre-lien)** : Plateforme e-commerce optimisée.
 * **SmartOrient** : IA d'aide à l'orientation scolaire.
 
