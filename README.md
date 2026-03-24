@@ -33,4 +33,4 @@ Nous sommes une équipe de passionnés dédiée à l'innovation :
 
 **"Orienter ses talents, construire l'avenir."**
 
-📧 **Contact :** [axenovalan@gmail.com]
+📧 **Contact :** [axenovalab@gmail.com]
